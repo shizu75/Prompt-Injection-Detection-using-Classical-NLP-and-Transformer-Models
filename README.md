@@ -195,6 +195,8 @@ This project aligns with research directions in:
 **Soban Saeed**  
 AI Security | NLP | LLM Safety Research
 
+## Deployed App: https://huggingface.co/spaces/Shizu75/Prompted
+
 ---
 
 > This project is intended strictly for academic, research, and defensive security purposes.
